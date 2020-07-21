@@ -4,4 +4,4 @@ This is a Network Intrusion Detection model that uses keras to classify differen
 
 I was able to achieve an accuracy of 0.99 on the training and validation set.
 
-Kaggle: https://www.kaggle.com/sampadab17/network-intrusion-detection
+Kaggle network intrusion dataset link: https://www.kaggle.com/sampadab17/network-intrusion-detection
